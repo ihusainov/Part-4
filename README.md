@@ -9,8 +9,8 @@
 Нужно отключить текущие добавленные два диска в виртуальную машину и подключить два диска по 1G
 Все действия произвожу от пользователя root
 
-
-![Далее нужно делать листинг текущих дисков:](https://github.com/ihusainov/Part-4/blob/main/Pic/1.png)
+###Далее нужно делать листинг текущих дисков:
+![](https://github.com/ihusainov/Part-4/blob/main/Pic/1.png)
 
 Добавил в систему диски, разметил для LVM
 ![](https://github.com/ihusainov/Part-4/blob/main/Pic/2.png)
